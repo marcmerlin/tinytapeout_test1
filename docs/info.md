@@ -9,15 +9,18 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Once I figure out what it will do, I will record here
-Need
+Once I figure out what it will do, I will record here  
+Need  
 more lines?
 
 ## How to test
 
-I'll get to that
-Need
+I'll get to that  
+Need   
 more lines?
+
+Needmore lines?
+It is not empty
 
 ## External hardware
 
